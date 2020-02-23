@@ -1,3 +1,6 @@
 # hello-world
 first repository
-I am a self-taught person.
+
+
+Hi guys
+I am new to github
